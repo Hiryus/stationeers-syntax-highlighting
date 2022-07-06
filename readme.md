@@ -2,7 +2,8 @@
 
 User defined language for notepad++ allowing syntax highlighting for integrated chips programs.
 
-TODO: add screenshot of the editor with an IC program.
+# Sample
+![Screenshot of an IC program that shows syntax highlighting in Notepad++](img/notepadpp_sample.png)
 
 
 # Installation
